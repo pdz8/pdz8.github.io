@@ -1,6 +1,7 @@
 ## Jekyll
 .sass-cache/
 _site/
+_drafts/
 
 ## Tex
 *.aux
