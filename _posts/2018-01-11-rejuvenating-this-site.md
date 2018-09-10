@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rejuvinating this site
+title: Rejuvenating this site
 excerpt: >
     I'm bring this back to life.
     Expect more content until I forget about it again.
