@@ -4,7 +4,7 @@ email: pdz8@cornell.edu
 description: > # this means to ignore newlines until "baseurl:"
   Content unrelated to reptiles.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://peterzieske.com" # the base hostname & protocol for your site
+url: "https://peterzieske.com" # the base hostname & protocol for your site
 twitter_username: PeeDeeZee8
 github_username:  pdz8
 
@@ -16,6 +16,6 @@ exclude: [
   sandbox/,
   website.*,
   ]
-permalink: /posts/:title
+#permalink: /posts/:title
 enable_disqus: true
 enable_social: true

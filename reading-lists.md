@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Reading Lists
-permalink: /reading/
 ---
 #### Blogroll
 
